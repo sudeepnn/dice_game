@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -41,7 +40,6 @@ img {
   width: 200px;
   border-radius: 5px;
   font-family: 'Indie Flower', cursive;
-  
   font-size: 30px;
 }
 
